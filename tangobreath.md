@@ -1,9 +1,11 @@
 ---
 id: 8
-title: TangoBreath
+title: What is the TangoBreath Vinyasa ?
 date: 2011-09-16T20:57:25+00:00
 author: Eric Gebhart
 layout: page
+menu: true
+order: 12
 guid: http://wordpress/?page_id=8
 keyword_cache:
   - 'a:1:{s:13:"keywords_time";s:10:"1328833023";}'
@@ -20,15 +22,9 @@ sfw_comment_form_password:
   </h1>
   
   <div>
-    TangoBreath began in our personal practice as an effort to combine individual exercises that are necessary for building proper technique into a flowing sequence. We link together intrinsic tango movements &#8212; reaching, transferring weight, and pivoting or spiraling &#8212; with breathing and visualization elements to help students physically and mentally understand the dynamics of the dance.
+    TangoBreath began in my personal practice as an effort to combine individual exercises that are necessary for building proper technique into a flowing sequence connected with breath. 
+The vinyasa flow links together intrinsic tango movements, reaching, transferring weight, and pivoting or spiraling with breathing and visualization elements to help students physically and mentally understand the dynamics of the dance.
   </div>
-  
-  <h2>
-  </h2>
-  
-  <p>
-    &nbsp;
-  </p>
   
   <h2>
     TangoBreath is Argentine Tango movement with intention.
@@ -37,13 +33,6 @@ sfw_comment_form_password:
   <div>
     TangoBreath helps create good posture and body awareness by moving through all the variations of argentine tango movement with intention and focus.  By being aware of proper posture and movement, the Argentine tango dancer has a distinct advantage in learning the dance. Committing these postures and movements to muscle memory increases any dancer&#8217;s ability to use the movement naturally without conscious thought.
   </div>
-  
-  <h2>
-  </h2>
-  
-  <p>
-    &nbsp;
-  </p>
   
   <h2>
     <span style="text-align: left;">TangoBreath is a practice for dancers of all levels.</span>

@@ -2,7 +2,7 @@
 id: 73
 title: Contact
 date: 2011-09-16T21:46:44+00:00
-author: Eric
+author: Susannah
 layout: page
 guid: http://wordpress/?page_id=73
 sfw_comment_form_password:
