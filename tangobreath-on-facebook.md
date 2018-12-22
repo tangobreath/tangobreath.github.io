@@ -20,4 +20,3 @@ We also have a presence on Google+, you can see that feed [here.](http://tangobr
 
 You may alternatively wish to subscribe to our calendar [here.](http://tangobreath.com/when-where/ "Our Calendar Page")
 
-[fb_feed]
