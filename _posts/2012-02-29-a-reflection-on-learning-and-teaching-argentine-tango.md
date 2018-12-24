@@ -102,14 +102,14 @@ heard from others? Can we explain our personal kinesthesia with regard
 to the phrase? (Ask three people what it means, and you will get three
 different answers.) Does it mean square the pevis? Stay centered? Lift
 the front of the pelvis and drop the back? But&#8230; it just means, how
-could you not understand? . . .Well, to be up on your legs! (Can&#8217;t
+could you not understand? . . .Well, to be up on your legs! (Can't
 you feel it?).&#8221; Pp 71-72.
 
 While Franklin is specifically referring to ballet, I think we can all
 commiserate with the feeling of a student who is dismayed because their
 teacher is telling them to do something (often repeating it many times
-over, sometimes in an exasperated tone) that doesn&#8217;t make sense
-to him/her. Have you been there? Eric and I have witnessed many people,
+over, sometimes in an exasperated tone) that doesn't make sense
+to him/her. Have you been there? I have witnessed many people,
 in trying to mimic other dancers or do what their teacher is telling
 them to do, contort their bodies in unhealthy and awkward ways.
 
@@ -141,11 +141,11 @@ goes for both good symptoms and bad symptoms or problems we are having
 in our dance.  Often one idea or visualization can create, or solve,
 several outwardly visible symptoms of movement.
 
-## Tango is natural movement, so we don&#8217;t need to contort or compartmentalize.
+## Tango is natural movement, so we don't need to contort or compartmentalize.
 
 We believe that tango is natural movement. That statement might seem
-redundant and silly (it&#8217;s happening in our bodies, of course
-it&#8217;s natural!). However, we find that in the analyzing or teaching
+redundant and silly (it's happening in our bodies, of course
+it's natural!). However, we find that in the analyzing or teaching
 mode, it is very easy to compartmentalize parts of the body and forget
 that it moves as a whole. This is when contortion happens, and most of us
 will admit that we see it all over the place (in daily life, as well as
@@ -156,7 +156,7 @@ getting to a point in our dance when we can tune completely into our
 partner and the music, without thinking about the pieces of our bodies.
 
 That said, finding an ability to narrow our focus to parts of our
-body during a movement allows us to create &#8220;inner eyes&#8221;
+body during a movement allows us to create "inner eyes"
 and an image of our body system that reinforces healthy movement. The
 art for the student lies in being able to utilize the most effective
 visualizations for them and comprehending the ways in which they connect
@@ -167,16 +167,16 @@ about taking your center of movement through your line of gravity will
 cause your feet to collect and your weight to transfer cleanly and
 completely to your newly planted foot.
 
-## Deep understanding of tango movement is within everyone&#8217;s reach.
+## Deep understanding of tango movement is within everyone's reach.
 
 [<img class="alignleft size-full wp-image-34460"
 title="body_awareness_challenges" alt="Body awareness challenges"
 src="http://tangobreath.com/wp-content/uploads/2012/01/body_awareness_challenges.jpeg"
 width="212" height="237"
-/>](http://tangobreath.com/wp-content/uploads/2012/01/body_awareness_challenges.jpeg)Eric
-and I enjoy creating
+/>](http://tangobreath.com/wp-content/uploads/2012/01/body_awareness_challenges.jpeg)
+I enjoy creating
 [challenges](http://tangobreath.com/category/challenges/ "Body awareness
-challenges.") each week (that, for the record, we try to do as well)
+challenges.") (that, for the record, we try to do as well)
 that allow us to focus on a visualization or an alignment and notice
 its effect on our posture and movement. Doing this at rest, when we
 are not in the middle of dancing, allows us to create a body image and
@@ -192,25 +192,44 @@ everyday life. This framework of understanding is built equally by
 teachers, fellow dancers, and the individual student, so we all carry
 responsibility in its functionality.
 
-## A good teacher believes in their student&#8217;s ability to dance. A good student believes in themselves, and acts upon their &#8220;_desire to do.&#8221;_
+## A good teacher believes in their student's ability to dance. A good student believes in themselves, and acts upon their _"desire to do."_
 
 As teachers, we have a responsibility to convey the pith of movement
 concepts to our students without taking shortcuts or relying solely on
 descriptions that are commonly used, even if we think we understand what
 they mean. Teachers also have to have an open mind and heart to different
-learning styles and seek to provide a wide variety of &#8220;tools&#8221;
+learning styles and seek to provide a wide variety of 'tools'
 (rather than directives) for students to be able to do self-processing
 and reflecting.  Most of all, teachers must have faith in their students
 ability.
 
-In _Dynamic Alignment through Imagery_, [Eric Franklin](http://franklinmethod.org/en/ "Eric Franklin, The Franklin Method.") emphasizes the role of the teacher in empowering his/her students: &#8220;I have known teachers of dance with the attitude: &#8216;Very few people were made to dance, and certainly not most of the people here.&#8217; Watching the students in such a class, I see tension, sullenness, self-distrust, and a failure to achieve. I am sure we have all experienced the benefits of receiving encouragement, or what is often referred to as positive &#8216;vibrations.&#8217;  It seems the more deeply an image is held in the teachers mind, the better she or he can convey it, and the more likely the student will react to it.&#8221;
+In _Dynamic Alignment through Imagery_, [Eric
+Franklin](http://franklinmethod.org/en/ "Eric Franklin, The Franklin
+Method.") emphasizes the role of the teacher in empowering his/her
+students: &#8220;I have known teachers of dance with the attitude:
+&#8216;Very few people were made to dance, and certainly not most of the
+people here.&#8217; Watching the students in such a class, I see tension,
+sullenness, self-distrust, and a failure to achieve. I am sure we have
+all experienced the benefits of receiving encouragement, or what is
+often referred to as positive &#8216;vibrations.&#8217;  It seems the
+more deeply an image is held in the teachers mind, the better she or he
+can convey it, and the more likely the student will react to it.&#8221;
 
-As students, we are responsible for investing in the creation of an internal radar or vision of our bodies as well as opening our hearts and minds to perceiving in new, and often very subtle, ways. Students also have to accept their role as teacher, even if it is only to be their own, providing themselves with positive feedback, and adjusting their own movement with gentleness. A student must search or ask for new ways of understanding if what they are being told does not work for them, rather than resigning to the fact that they can&#8217;t get it because they aren&#8217;t good enough yet, or because tango is _supposedly_ really hard.
+As students, we are responsible for investing in the creation of an
+internal radar or vision of our bodies as well as opening our hearts
+and minds to perceiving in new, and often very subtle, ways. Students
+also have to accept their role as teacher, even if it is only to be
+their own, providing themselves with positive feedback, and adjusting
+their own movement with gentleness. A student must search or ask for
+new ways of understanding if what they are being told does not work
+for them, rather than resigning to the fact that they can't
+get it because they aren't good enough yet, or because tango
+is _supposedly_ really hard.
 
 Mabel Todd, in _The Thinking Body (1972),_ writes: &#8220;When doing
 exercises under instruction we are apt to think that we move or direct the
 moving of the muscles. What actually happens is that we get a picture from
-the teacher&#8217;s words or his movements, and the appropriate action
+the teacher's words or his movements, and the appropriate action
 takes place within our own bodies to reproduce this picture. The result
 is successful in proportion to our power of interpretation and the amount
 of experience, but most of all perhaps to _the desire to do.&#8221;_
