@@ -74,7 +74,7 @@ happening in their body (be it kinesthetically or literally).
 
 ## The ways we describe movement has long-ranging impacts on students.
 
-A few months ago, I wrote an article called
+A few months ago, we wrote an article called
 <a title="Learning to question in order to learn"
 href="http://tangobreath.com/learning-to-question-in-order-to-learn/"
 target="_blank">&#8220;Learning to question in order to learn.&#8221;</a>
@@ -252,5 +252,5 @@ and transformative dance.
 
 Lovingly and with great respect,
 
-Eric
+Eric & Susannah
 
