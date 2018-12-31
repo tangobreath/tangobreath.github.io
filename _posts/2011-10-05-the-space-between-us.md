@@ -37,9 +37,7 @@ tags:
 ---
 # This talk is about relationships and life, everything in it also applies to tango
 
-As my first post I would like to share a video, it is one of my favorites, and this is not even a tango video. It&#8217;s a TED talk. A TED talk about relationships by **Hedy Schleifer, &#8216;The Power of Connection&#8217;.**
-
-<!--more-->
+As my first post I would like to share a video, it is one of my favorites, and this is not even a tango video. It&#8217;s a TED talk. A TED talk about relationships by **Hedy Schleifer, The Power of Connection.**
 
 ## We create momentary relationships with everyone we dance with, and the expectations we bring into the embrace color that relationship.
 
@@ -64,5 +62,4 @@ Meet your partner in the middle of the embrace, with your unencumbered essence.
 Enjoy the video, it is one of my favorites.  Hedy is a wonderful speaker.
 
 
-
-&nbsp;
+{% youtube HEaERAnIqsY&t %}
