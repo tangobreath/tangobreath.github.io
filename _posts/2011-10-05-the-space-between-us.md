@@ -61,5 +61,6 @@ Meet your partner in the middle of the embrace, with your unencumbered essence.
 
 Enjoy the video, it is one of my favorites.  Hedy is a wonderful speaker.
 
+[The Power of Connection - Hedy Schleifer](https://www.youtube.com/watch?v=HEaERAnIqsY)
 
-{% youtube HEaERAnIqsY&t %}
+<!-- {% youtube HEaERAnIqsY&t %} -->
