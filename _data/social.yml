@@ -195,6 +195,14 @@ yelp:
   name: Yelp
   icon: icon-yelp
   prepend: "https://www.yelp.com/user_details?userid="
+shortEdition:
+  name: Short Edition
+  icon: icon-short-edition
+  prepend: "https://www.short-edition.com/fr/auteur/"
+italki:
+  name: italki
+  icon: icon-italki
+  prepend: "https://www.italki.com/user/"
 paypal:
   name: PayPal
   icon: icon-paypal

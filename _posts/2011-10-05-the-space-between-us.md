@@ -35,7 +35,10 @@ tags:
   - TangoBreath
   - TangoBreath class
 ---
-# This talk is about relationships and life, everything in it also applies to tango
+
+# The Space Between us.
+
+## This talk is about relationships and life, everything in it also applies to tango
 
 As my first post I would like to share a video, it is one of my favorites, and this is not even a tango video. It&#8217;s a TED talk. A TED talk about relationships by **Hedy Schleifer, The Power of Connection.**
 
@@ -63,4 +66,3 @@ Enjoy the video, it is one of my favorites.  Hedy is a wonderful speaker.
 
 [The Power of Connection - Hedy Schleifer](https://www.youtube.com/watch?v=HEaERAnIqsY)
 
-<!-- {% youtube HEaERAnIqsY&t %} -->
