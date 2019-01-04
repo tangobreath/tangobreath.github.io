@@ -1,8 +1,9 @@
 ---
 title: Finding a new suit.
 description: "New directions and my very first post redux."
-date: 2019-01-01T12:45:04+00:00
+date: 2019-01-02T07:45:04-01:00
 author: Eric Gebhart
+permalink: /finding-a-new-suit/
 layout: post
 categories:
   - Article
@@ -58,7 +59,7 @@ I'm doing well now, and I accept the uncertainty of my plans, I even embrace the
 My life is completely different. My past is past. And I have no illusions that
 my life is as uncertain as it always was. I'm en voyage a majority of my time, I
 now speak french, and I'm learning other languages as I continue on this path that
-goes to places unknown. Long term plans are an illusion to make us more comfortable.
+goes to places unknown. Long term plans are an illusion to let us be more comfortable.
 
 
 
@@ -97,8 +98,8 @@ relationships by **Hedy Schleifer, The Power of Connection.**  It was the
 topic of my first post here on this website, [The space between
 us](http://tangobreath.com/the-space-between-us) and I think it's appropriate
 that it is the topic of my first post on this new website as I refind the
-peace I once had and take new directions in life. Thank you to tango
-for being here for me once again.
+peace I once had and take new directions in life in my newly fitted suit. 
+Thank you to tango for being here for me once again. I'm ready for the next steps.
 
 [The Power of Connection - Hedy Schleifer](https://www.youtube.com/watch?v=HEaERAnIqsY)
 
