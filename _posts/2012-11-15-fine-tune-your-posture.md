@@ -1,13 +1,10 @@
 ---
-id: 294045
 title: Fine-tune your posture
+description: "A simple exercise to fine tune your posture no matter where you are."
 date: 2012-11-15T11:02:39+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=294045
 permalink: /fine-tune-your-posture/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1352825406";}'
 categories:
   - Article
   - Beginning
@@ -129,12 +126,9 @@ started? How does it feel? Readjust your head.
 
 In your mind&#8217;s eye, trace down your spine from your nicely
 adjusted shoulders to your sacrum, hips and tailbone. How is
-your spine? Is it curved one way or another? It should [<img
-class="alignleft size-full wp-image-299184" title="lordosis1" alt=""
-src="wp-content/uploads/2012/11/lordosis1.jpg"
-width="299" height="239"
-/>](wp-content/uploads/2012/11/lordosis1.jpg)have
-a bit of curve, but not too much. How do your sacrum,
+your spine? Is it curved one way or another? It should 
+[<img class="alignleft size-full wp-image-299184" title="lordosis1" alt="" src="http://tangobreath.com/assets/img/lordosis1.jpg" width="299" height="239" />](http://www.tangobreath.com/assets/img/lordosis.jpg)
+have a bit of curve, but not too much. How do your sacrum,
 hips and tailbone feel? (If you have questions about how to
 perceive them, we recommend <a title="Perceiving the dynamic
 sacrum." href="http://tangobreath.com/perceiving-the-dynamic-sacrum/"

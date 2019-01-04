@@ -1,19 +1,10 @@
 ---
-id: 40971
 title: Forward head posture and Argentine tango
+description: "Bad posture is something that many people struggle with, this is one of the most common problems."
 date: 2012-02-13T15:55:31+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=40971
 permalink: /forward-head-posture-and-argentine-tango/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1329166554";}'
-dcssb_short_url:
-  - http://tinyurl.com/crdmgs9
-sfw_pwd:
-  - qGYisabh7k4C
-sfw_comment_form_password:
-  - zd0QP5s0uB7B
 categories:
   - Article
   - Beginning
@@ -43,7 +34,6 @@ tags:
   - visualization
   - winged scapula
 ---
-# Bad posture is a common problem.
 
 I recently gave a weekly challenge to create awareness of our posture, [&#8220;Scrunch your shoulders, fix your posture!&#8221;](http://tangobreath.com/scrunch-your-shoulders-fix-your-posture/). The exercise is specifically targeted at slouched shoulders and a forward head posture. After posting it, I received a few emails from tango dancers and non-dancers, all thanking me for the reminder. Many said that this particular exercise is something they&#8217;ve been told to do. As I was writing this article, it came time for another body awareness challenge, so I posted [&#8220;Balance your head!&#8221;](http://tangobreath.com/balance-your-head/ "Balance your head, the first step toward good posture."), which generated even more feedback. Clearly, bad posture is a problem that many of us are struggling with.
 

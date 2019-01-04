@@ -1,19 +1,10 @@
 ---
-id: 535
 title: Teaching and Learning Argentine Tango from a Different Perspective
+description: We believe that everyone has to learn the same things, regardless of role.
 date: 2012-01-03T17:58:57+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=535
 permalink: /teaching-argentine-tango-from-a-different-perspective/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832092";}'
-dcssb_short_url:
-  - http://tinyurl.com/cd9auqr
-sfw_pwd:
-  - rlwaw2UQBDwl
-sfw_comment_form_password:
-  - udYYHPy3htmO
 categories:
   - Article
   - Beginning
@@ -38,7 +29,8 @@ tags:
   - technique
   - vinyasa
 ---
-# We believe, instead, that everyone has to learn the same things, regardless of role.
+
+<!-- # We believe, instead, that everyone has to learn the same things, regardless of role. -->
 
 In the <a title="Expectations, misconceptions and perspectives on learning Argentine tango." href="http://tangobreath.com/expectations-misconceptions-and-perspectives-on-learning-argentine-tango/" target="_blank">last post</a> I talked about the common expectations and perspectives that new students of tango have or are commonly exposed to, a perspective that focuses on steps and isolating &#8220;followers&#8221; and &#8220;leaders&#8221; technique, claiming that they have different learning curves.  This approach can often leave students frustrated and does not give them the opportunity in the beginning to feel the beautiful connection and expression that keeps us all coming back to the dance.
 

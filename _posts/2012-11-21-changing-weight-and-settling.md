@@ -1,19 +1,11 @@
 ---
-id: 294234
 title: Changing Weight and Settling
+description: "An awareness challenge to improve your connection with, and power from the ground."
 date: 2012-11-21T12:43:28+00:00
 author: Eric Gebhart
 layout: post
 guid: http://tangobreath.com/?p=294234
 permalink: /changing-weight-and-settling/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1353519823";}'
-dcssb_short_url:
-  - http://tinyurl.com/bukn5as
-sfw_pwd:
-  - qyaQssFqF1M3
-sfw_comment_form_password:
-  - s0N95tQ56dqT
 categories:
   - Beginning
   - Challenges

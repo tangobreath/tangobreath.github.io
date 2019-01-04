@@ -1,19 +1,10 @@
 ---
-id: 102640
 title: Finding circles and spirals in our walk
+description: "Becoming aware of the circles and spirals that happen in our body as we walk."
 date: 2012-04-05T19:50:28+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=102640
 permalink: /finding-circles-and-spirals-in-our-walk/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1333669845";}'
-dcssb_short_url:
-  - http://tinyurl.com/cdldcm2
-sfw_pwd:
-  - LDQ1vx43GDvt
-sfw_comment_form_password:
-  - XM6HsETZpbx9
 categories:
   - Beginning
   - Challenges
@@ -36,7 +27,6 @@ tags:
   - walking
   - weight bearing
 ---
-# Becoming aware of the circles and spirals that happen in our body as we walk.
 
 This challenge builds on our last challenge, [Sinking into our Standing leg](http://tangobreath.com/sinking-into-our-standing-leg/ "Sinking into our standing leg.").  We will use that same exercise, but apply it to every step we take as we walk.  Walking down the street, the hallway, the grocery store, give this a try, but try not to think about it too much. Do this once at home, with focus, then do it whenever you walk somewhere, even if it is just for a few steps. Our goal is to become aware of the circles and spirals that our body creates internally as we walk. Ultimately we want to relax into a healthy balanced walk and remain aware of how our body is moving and how it feels.
 

@@ -1,19 +1,10 @@
 ---
-id: 312
-title: How we think affects the way we move
+title: "How we think affects the way we move"
+description: "Visualization enables the best movement and posture possible"
 date: 2011-11-15T12:58:51+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=312
 permalink: /how-we-think-affects-the-way-we-move-2/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832111";}'
-dcssb_short_url:
-  - http://tinyurl.com/cpvjg7h
-sfw_pwd:
-  - dvs0d3TJScfv
-sfw_comment_form_password:
-  - EJisknj0u66f
 categories:
   - Article
   - Concepts
@@ -44,7 +35,8 @@ tags:
   - unweighted hip
   - visualization
 ---
-## Visualization enables the best movement and posture possible
+
+<!-- ## Visualization enables the best movement and posture possible -->
 
 TangoBreath has made us very conscious of how we describe the Argentine tango movements we are guiding.  It is crucial to be concise in our presentation &#8211; the evolution of which is well understood by our attendees.  How we think, and what we think, has a profound affect on the way we move. We are fortunate that discussions and feedback following TangoBreath are revealing new ways of verbally describing tango movements and various visualizations that individuals have used to conceptualize &#8211; and physically embed &#8211; the core technique of Argentine tango.  Likewise, in our own practice, we have come to find our own ways of visualizing and comprehending movement.
 

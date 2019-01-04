@@ -1,19 +1,10 @@
 ---
-id: 66795
 title: Creating stability in our pelvis
+description: "Maybe it's obvious, We love the pelvis!"
 date: 2012-03-02T21:20:09+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=66795
 permalink: /creating-stability-in-our-pelvis/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1330741219";}'
-dcssb_short_url:
-  - http://tinyurl.com/clzzemm
-sfw_pwd:
-  - yeRsrwo3hu8w
-sfw_comment_form_password:
-  - LhxRgPkVscWK
 categories:
   - Challenges
   - Concepts
@@ -44,7 +35,6 @@ tags:
   - walking
   - walking in tango
 ---
-## We love the pelvis!
 
 We continue this week&#8217;s challenge with our focus on the sacrum and pelvis. For background, consider checking out the challenge from <a title="Aligning our sacrum" href="http://tangobreath.com/aligning-our-sacrum/" target="_blank">last week</a> and the <a title="Perceiving the dynamic sacrum" href="http://tangobreath.com/perceiving-the-dynamic-sacrum/" target="_blank">week prior</a>.
 

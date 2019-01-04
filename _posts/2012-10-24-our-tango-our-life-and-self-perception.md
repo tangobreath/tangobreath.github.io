@@ -1,6 +1,7 @@
 ---
 id: 137479
 title: Our tango, our life, and self perception.
+description: "Our tango, our life, and self perception are reflections of one another."
 date: 2012-10-24T10:26:47+00:00
 author: Eric Gebhart
 layout: post
@@ -27,7 +28,6 @@ tags:
   - self perception
   - suit
 ---
-##  Our tango, our life, and self perception are reflections of one another.
 
 Tango!  Life!  blah, blah, blah.  So many ways to relate the two. Metaphors[<img class="alignright size-medium wp-image-37757" title="Headforwardposture.005" alt="head forward posture is bad for you." src="http://tangobreath.com/wp-content/uploads/2012/02/Headforwardposture.005-300x225.png" width="300" height="225" srcset="http://tangobreath.com/wp-content/uploads/2012/02/Headforwardposture.005-300x225.png 300w, http://tangobreath.com/wp-content/uploads/2012/02/Headforwardposture.005-400x300.png 400w, http://tangobreath.com/wp-content/uploads/2012/02/Headforwardposture.005.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://tangobreath.com/wp-content/uploads/2012/02/Headforwardposture.005.png) galore! This isn&#8217;t that. This is about awareness. This is about getting feedback from your dance about your life. Tango can help you find your perception of self. Tango can tell you when your life is going right or wrong. When we begin to learn tango many of us have no idea that we are embarking on a journey to overcoming years of conditioning, belief of self, and our own perception of who we are in relation to the world. Our tango, our life, and self perception are reflections of one another. We must dance who we are.
 

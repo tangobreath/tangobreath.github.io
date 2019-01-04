@@ -1,19 +1,9 @@
 ---
-id: 353714
 title: Testing our core posture
+description: "How solid is your &#8220;good&#8221; posture?"
 date: 2013-01-13T15:47:55+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=353714
-permalink: /testing-our-core-posture/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1358110095";}'
-dcssb_short_url:
-  - http://tinyurl.com/bmr7e59
-sfw_pwd:
-  - QUN7fHAMpBze
-sfw_comment_form_password:
-  - oRUPs2fasIhP
 categories:
   - Challenges
   - Exercises
@@ -31,7 +21,6 @@ tags:
   - sacrum
   - spine
 ---
-# How solid is your &#8220;good&#8221; posture?
 
 Occasionally, it&#8217;s a good idea just to check where we stand,
 literally, in our bodies&#8211; how solid is our &#8220;good&#8221;

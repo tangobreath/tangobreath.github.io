@@ -1,18 +1,9 @@
 ---
-id: 12625
 title: Launching instead of landing.
+description: "From the ministry of Silly walks"
 date: 2012-01-06T15:22:15+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=12625
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832092";}'
-dcssb_short_url:
-  - http://tinyurl.com/clafgc9
-sfw_pwd:
-  - URwhWh3ezeTg
-sfw_comment_form_password:
-  - pAwTBHP4aQ0j
 categories:
   - Challenges
   - Visualization

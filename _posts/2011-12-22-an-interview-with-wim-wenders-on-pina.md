@@ -1,23 +1,13 @@
 ---
 id: 2564
-title: An interview with Wim Wenders on PIna
+title: An interview with Wim Wenders on Pina
 date: 2011-12-22T22:57:01+00:00
 author: Eric Gebhart
 layout: post
 guid: http://tangobreath.com/an-interview-with-wim-wenders-on-pina/
 permalink: /an-interview-with-wim-wenders-on-pina/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328863573";}'
-dcssb_short_url:
-  - http://tinyurl.com/btqqzrm
-sfw_pwd:
-  - 9QX48GLDo3yT
-sfw_comment_form_password:
-  - hJQmmfaH19un
 categories:
-  - Google+
-tags:
-  - Google+
+  - post
 ---
 **Reshared post from +[Fred Sullivan](https://plus.google.com/109767214205105679538)**
 

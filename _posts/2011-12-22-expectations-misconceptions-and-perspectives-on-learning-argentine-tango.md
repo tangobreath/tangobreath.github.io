@@ -1,19 +1,10 @@
 ---
-id: 422
 title: Expectations, misconceptions, and perspectives on learning Argentine tango
+description: "The questionable argument is that, in the beginning, leaders have a steeper learning curve than followers."
 date: 2011-12-22T14:32:08+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=422
 permalink: /expectations-misconceptions-and-perspectives-on-learning-argentine-tango/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832094";}'
-dcssb_short_url:
-  - http://tinyurl.com/cqpok3h
-sfw_pwd:
-  - 0tWeaM6lW3WO
-sfw_comment_form_password:
-  - zatQDGi3pAiU
 categories:
   - Article
   - Beginning
@@ -41,7 +32,8 @@ tags:
   - technique
   - trial and error
 ---
-# The questionable argument is that, in the beginning, leaders have a steeper learning curve than followers.
+
+<!-- # The questionable argument is that, in the beginning, leaders have a steeper learning curve than followers. -->
 
 In the process of my own learning, and now, again as we are helping new beginners to learn tango, I am questioning the way many of us have been taught and the perspectives that new dancers have, or are taught to have, shortly after they begin learning Argentine tango.
 

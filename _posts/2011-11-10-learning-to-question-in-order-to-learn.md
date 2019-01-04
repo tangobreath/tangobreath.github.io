@@ -1,19 +1,10 @@
 ---
-id: 289
-title: Learning to question in order to learn
+title: "Learning to question in order to learn"
+description: "To teach well is to question thoroughly"
 date: 2011-11-10T10:10:38+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=289
 permalink: /learning-to-question-in-order-to-learn/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832602";}'
-dcssb_short_url:
-  - http://tinyurl.com/cp8w7ud
-sfw_pwd:
-  - QVWfV2wNRx0r
-sfw_comment_form_password:
-  - JZWZIhUlX7Ko
 categories:
   - Article
   - Concepts
@@ -43,7 +34,8 @@ tags:
   - technique
   - visualization
 ---
-# To teach well is to question thoroughly
+
+<!-- # To teach well is to question thoroughly -->
 
 Yesterday, a lovely and inspiring woman, Sasha Cagen, from the San
 Francisco area wrote us, inquiring about our ways of teaching tango

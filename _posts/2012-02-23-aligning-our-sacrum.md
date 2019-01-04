@@ -1,19 +1,10 @@
 ---
-id: 58367
 title: Aligning our sacrum
+description: "A simple thing to do everytime you begin to walk"
 date: 2012-02-23T13:05:17+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=58367
 permalink: /aligning-our-sacrum/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1330020332";}'
-dcssb_short_url:
-  - http://tinyurl.com/d9te33o
-sfw_pwd:
-  - DOlaJ0kLYrhU
-sfw_comment_form_password:
-  - oPurkSpeoccY
 categories:
   - Challenges
   - Posture

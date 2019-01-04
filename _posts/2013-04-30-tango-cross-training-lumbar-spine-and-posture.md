@@ -1,19 +1,10 @@
 ---
-id: 385567
 title: 'Tango Cross-Training: Lumbar Spine and Posture'
+description: "Exercising and stretching can help your tango."
 date: 2013-04-30T15:20:04+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=385567
 permalink: /tango-cross-training-lumbar-spine-and-posture/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";i:1362180976;}'
-dcssb_short_url:
-  - http://tinyurl.com/c837spc
-sfw_pwd:
-  - e16jj0Yj7bzw
-sfw_comment_form_password:
-  - bBUFeoImEwB4
 categories:
   - Exercises
   - Featured

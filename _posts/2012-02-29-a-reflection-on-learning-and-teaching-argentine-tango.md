@@ -1,19 +1,10 @@
 ---
-id: 62402
 title: A reflection on learning and teaching Argentine tango
+description: "Asking ourselves about our roles in learning and teaching Argentine tango."
 date: 2012-02-29T11:15:12+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=62402
 permalink: /a-reflection-on-learning-and-teaching-argentine-tango/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1330369787";}'
-dcssb_short_url:
-  - http://tinyurl.com/bnvrqav
-sfw_pwd:
-  - TpwPd7yafB2m
-sfw_comment_form_password:
-  - 4dalQWM90O7K
 categories:
   - Article
   - Concepts
@@ -40,7 +31,6 @@ tags:
   - technique
   - visualization
 ---
-## Asking ourselves about our roles in learning and teaching Argentine tango.
 
 We have been busy writing articles for this website and are enthusiastic
 about sharing our thoughts and explorations. We thought that now would

@@ -1,19 +1,10 @@
 ---
-id: 51093
 title: Perceiving the dynamic sacrum
+description: "A body awareness challenge that focuses on the keystone of our posture"
 date: 2012-02-16T13:06:34+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=51093
 permalink: /perceiving-the-dynamic-sacrum/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1329415601";}'
-dcssb_short_url:
-  - http://tinyurl.com/cvcepzf
-sfw_pwd:
-  - gp6wgj2doVZh
-sfw_comment_form_password:
-  - YHxBomFytfmU
 categories:
   - Challenges
   - Posture

@@ -1,19 +1,11 @@
 ---
 id: 9702
 title: Intention, Dynamic Tension, and the Line of Gravity.
+description: "Dynamic Tension, done well, it is what one friend calls: Jedi Tango!"
 date: 2012-01-06T16:01:32+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=9702
 permalink: /intention-dynamic-tension-and-the-line-of-gravity/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832091";}'
-dcssb_short_url:
-  - http://tinyurl.com/cqt755b
-sfw_pwd:
-  - hfs3G1Aqs1uS
-sfw_comment_form_password:
-  - v8bQNaEgG3ya
 categories:
   - Article
   - Beginning
@@ -42,7 +34,8 @@ tags:
   - technique
   - visualization
 ---
-# Dynamic Tension, done well, it is what one friend calls &#8220;Jedi Tango&#8221;
+
+<!-- # Dynamic Tension, done well, it is what one friend calls &#8220;Jedi Tango&#8221; -->
 
 There are several terms that are regularly used when teaching or learning Argentine tango that are very ambiguous and at the same time very important.  &#8220;Grounding&#8221; and &#8220;Intention&#8221; are two of the hardest to comprehend or do, without some specific idea of what to do in your own body and without experiencing how they should and should not feel in a partner.
 

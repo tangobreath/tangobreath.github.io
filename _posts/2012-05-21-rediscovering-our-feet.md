@@ -1,19 +1,10 @@
 ---
-id: 153642
 title: Rediscovering our feet
+description: Two awareness challenges to bring focus to your feet.
 date: 2012-05-21T14:07:03+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=153642
 permalink: /rediscovering-our-feet/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1337623638";}'
-dcssb_short_url:
-  - http://tinyurl.com/c4kvlu9
-sfw_pwd:
-  - gN7ugfWVX68V
-sfw_comment_form_password:
-  - DMB7uXjUJcWY
 categories:
   - Challenges
   - Practice

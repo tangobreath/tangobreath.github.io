@@ -1,19 +1,10 @@
 ---
-id: 299156
 title: Keeping your good posture in the dance
+description: "Often, our posture changes when we enter the embrace and it's not always for the better."
 date: 2012-11-30T11:16:16+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=299156
 permalink: /keeping-your-good-posture-in-the-dance/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1354292218";}'
-dcssb_short_url:
-  - http://tinyurl.com/ck4vy7k
-sfw_pwd:
-  - XQDrbptIODsg
-sfw_comment_form_password:
-  - SyBuzocoWoMy
 categories:
   - Article
   - Beginning
@@ -42,7 +33,6 @@ tags:
   - visualization
   - winged scapula
 ---
-## Often, our posture changes when we enter the embrace and it&#8217;s not always for the better.
 
 We spend a lot of time here and in our classes talking about good posture and helping people become aware of their posture and where they should focus to improve it. We work extensively on individual movement and posture because when you step on the dance floor, your posture and movement are what you bring with you. But that is only the beginning.
 

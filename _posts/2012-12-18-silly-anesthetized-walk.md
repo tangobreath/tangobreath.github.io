@@ -1,19 +1,10 @@
 ---
-id: 294222
 title: Silly Anesthetized Walk
+description: "From the ministry of Silly walks, be silly and explore funny walks to improve your awareness."
 date: 2012-12-18T12:11:59+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=294222
 permalink: /silly-anesthetized-walk/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1353165952";}'
-dcssb_short_url:
-  - http://tinyurl.com/d5ddfzz
-sfw_pwd:
-  - yoPdz5HYA2QU
-sfw_comment_form_password:
-  - mynoA9slKq4q
 categories:
   - Beginning
   - Challenges

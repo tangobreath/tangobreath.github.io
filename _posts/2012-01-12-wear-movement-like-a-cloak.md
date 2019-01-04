@@ -1,19 +1,10 @@
 ---
-id: 17372
 title: Wear movement like a cloak
+description: Find your tango super powers!
 date: 2012-01-12T12:17:44+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=17372
 permalink: /wear-movement-like-a-cloak/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832090";}'
-dcssb_short_url:
-  - http://tinyurl.com/c2qfmuk
-sfw_pwd:
-  - 76pBRtqpp5tg
-sfw_comment_form_password:
-  - boBmPYb7R7EK
 categories:
   - Challenges
   - Visualization

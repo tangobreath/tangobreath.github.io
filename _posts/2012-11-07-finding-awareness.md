@@ -1,19 +1,10 @@
 ---
-id: 293229
 title: Finding awareness.
+description: "Learning to be aware of our bodies in our everyday lives can improve our tango"
 date: 2012-11-07T00:55:00+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=293229
 permalink: /finding-awareness/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1352267720";}'
-dcssb_short_url:
-  - http://tinyurl.com/c2ydsdq
-sfw_pwd:
-  - Jb1nc4L7tl58
-sfw_comment_form_password:
-  - a3d2eiTSvGWA
 categories:
   - Beginning
   - Challenges

@@ -1,19 +1,10 @@
 ---
-id: 99286
 title: Sinking into our standing leg
+description: "Aligning our whole body, sinking into the ground through our standing leg"
 date: 2012-04-02T21:06:26+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=99286
 permalink: /sinking-into-our-standing-leg/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1333415197";}'
-dcssb_short_url:
-  - http://tinyurl.com/c6lfdhb
-sfw_pwd:
-  - fjPCOuTWbol5
-sfw_comment_form_password:
-  - TeeobOP1I8sK
 categories:
   - Challenges
   - Concepts
@@ -37,7 +28,6 @@ tags:
   - technique
   - visualization
 ---
-## Aligning our whole body, sinking into the ground through our standing leg
 
 For those who come to TangoBreath, you have heard us often recall the
 image of Michelangelo&#8217;s _David_.  We talk about sinking into

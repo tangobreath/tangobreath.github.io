@@ -1,19 +1,10 @@
 ---
-id: 36622
 title: Scrunch your shoulders, fix your posture.
+description: "Here are some things to try in your everyday life to improve your posture"
 date: 2012-02-02T15:24:21+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=36622
 permalink: /scrunch-your-shoulders-fix-your-posture/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832085";}'
-dcssb_short_url:
-  - http://tinyurl.com/chhzj57
-sfw_pwd:
-  - HOFLDy2esUpO
-sfw_comment_form_password:
-  - o1U62gbEb2s6
 categories:
   - Challenges
 tags:

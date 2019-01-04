@@ -1,19 +1,10 @@
 ---
-id: 16621
 title: Moving With Your Line of Gravity
+description: "Moving the line of gravity literally covers more ground"
 date: 2012-02-06T18:21:22+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=16621
 permalink: /moving-with-your-line-of-gravity/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832084";}'
-dcssb_short_url:
-  - http://tinyurl.com/bldduv8
-sfw_pwd:
-  - jFckGmaaPFtD
-sfw_comment_form_password:
-  - soAxG9UlZ7Vb
 categories:
   - Article
   - Beginning
@@ -35,7 +26,6 @@ tags:
   - sacrum
   - visualization
 ---
-# Moving the line of gravity literally covers more ground
 
 In the [last post](http://tangobreath.com/intention-dynamic-tension-and-the-line-of-gravity/ "Intention, dynamic tension and the line of gravity.") I described how the relationship between the center of movement and the line of gravity created internal dynamic tension which is a part of what creates presence or intention within the embrace. Moving the line of gravity literally covers more ground, but is easier to explain than the micro movements that create dynamic tension.
 

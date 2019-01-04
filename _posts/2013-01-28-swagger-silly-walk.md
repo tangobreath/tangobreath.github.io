@@ -1,19 +1,10 @@
 ---
-id: 294155
 title: The Swagger Silly Walk
+description: "Another awareness challenge from the ministry of silly walks. It might just help you learn to be more expressive when the music feels like it's falling."
 date: 2013-01-28T19:05:39+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=294155
 permalink: /swagger-silly-walk/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1359417958";}'
-dcssb_short_url:
-  - http://tinyurl.com/d68ehar
-sfw_pwd:
-  - ugNUFjsI6VTn
-sfw_comment_form_password:
-  - S1znnIvxjTA6
 categories:
   - Beginning
   - Challenges

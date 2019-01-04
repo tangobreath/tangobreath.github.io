@@ -1,19 +1,10 @@
 ---
-id: 49180
-title: 'Learning to practice is the key to learning any skill, Argentine tango is no exc&#8230;'
+title: 'Learning to practice is the key to learning any skill, Argentine tango is no exception'
+description: "It may seem obvious, but it isn't always, Learn how to practice."
 date: 2012-02-14T16:39:54+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/learning-to-practice-is-the-key-to-learning-any-skill-argentine-tango-is-no-exc/
 permalink: /learning-to-practice-is-the-key-to-learning-any-skill-argentine-tango-is-no-exc/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1329256870";}'
-dcssb_short_url:
-  - http://tinyurl.com/bugvlzx
-sfw_pwd:
-  - ZtPVHzgUIl9l
-sfw_comment_form_password:
-  - 4GdRDK6o9ie5
 categories:
   - Beginning
   - Concepts
@@ -22,9 +13,7 @@ categories:
 tags:
   - Google+
 ---
-**Learning to practice is the key to learning any skill, Argentine tango is no exception**
 
-Here's a great article on how to practice.
 
 It is really important to focus on movement, and pieces of movement, and to practice them in increasingly bigger chunks as you figure them out. We encourage our students to move slowly through a sticky spot in order to understand it, then work on it in an increasingly larger movement.
 

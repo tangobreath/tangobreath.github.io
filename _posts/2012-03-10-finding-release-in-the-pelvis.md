@@ -1,19 +1,10 @@
 ---
-id: 74938
 title: Finding release in the pelvis
+description: "A continuation of last weeks awareness challenge, finding more awareness in our pelvis."
 date: 2012-03-10T12:57:14+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=74938
 permalink: /finding-release-in-the-pelvis/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1331402244";}'
-dcssb_short_url:
-  - http://tinyurl.com/cw2odvd
-sfw_pwd:
-  - B5vyxCcKffon
-sfw_comment_form_password:
-  - txgKLkuxhlO5
 categories:
   - Challenges
   - Concepts
@@ -41,6 +32,7 @@ tags:
   - technique
   - visualization
 ---
+
 As a continuation of last week&#8217;s challenge,
 <a title="Creating stability in our pelvis"
 href="http://tangobreath.com/creating-stability-in-our-pelvis/"

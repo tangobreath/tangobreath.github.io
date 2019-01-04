@@ -1,19 +1,10 @@
 ---
-id: 176
-title: The space between us
+layout: post
+title: "The space between us"
+description: "This TED talk is about relationships and life, everything in it also applies to tango"
 date: 2011-10-05T12:45:04+00:00
 author: Eric Gebhart
-layout: post
-guid: http://tangobreath.com/?p=176
 permalink: /the-space-between-us/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328833051";}'
-dcssb_short_url:
-  - http://tinyurl.com/d9kdxog
-sfw_pwd:
-  - Gfs1d07vpvFA
-sfw_comment_form_password:
-  - ArNhYLVlCTw6
 categories:
   - Article
   - Beginning
@@ -36,9 +27,9 @@ tags:
   - TangoBreath class
 ---
 
-# The Space Between us.
+<!-- # The Space Between us. -->
 
-## This talk is about relationships and life, everything in it also applies to tango
+<!-- ## This talk is about relationships and life, everything in it also applies to tango -->
 
 As my first post I would like to share a video, it is one of my favorites, and this is not even a tango video. It&#8217;s a TED talk. A TED talk about relationships by **Hedy Schleifer, The Power of Connection.**
 

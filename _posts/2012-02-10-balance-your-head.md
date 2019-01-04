@@ -1,19 +1,10 @@
 ---
-id: 44337
 title: Balance your head
+description: "The positon of your head can have a profound affect on your posture, here's a practice you can do anytime, anywhere"
 date: 2012-02-10T13:01:18+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=44337
 permalink: /balance-your-head/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328896934";}'
-dcssb_short_url:
-  - http://tinyurl.com/dyhdqvq
-sfw_pwd:
-  - KWkXktwa3LRd
-sfw_comment_form_password:
-  - Mh5t97bKm5wr
 image: /wp-content/uploads/2012/02/Headforwardposture.005-1000x288.png
 categories:
   - Beginning

@@ -1,19 +1,10 @@
 ---
-id: 53354
 title: Imagery and the internal flow of movement in Argentine tango.
+description: "The flow of movement between partners can appear magical."
 date: 2012-03-08T13:34:57+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=53354
 permalink: /imagery-and-the-internal-flow-of-movement-in-argentine-tango/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1330380098";}'
-dcssb_short_url:
-  - http://tinyurl.com/cjk2n7c
-sfw_pwd:
-  - VFEdyCVrWlxJ
-sfw_comment_form_password:
-  - XZH1Rf2cDD1D
 categories:
   - Article
   - Beginning
@@ -46,7 +37,6 @@ tags:
   - teaching
   - visualization
 ---
-# The flow of movement between partners can appear magical.
 
 Every week in TangoLab, we start class with some exercise to
 create awareness of our partners through the embrace. Our goal is

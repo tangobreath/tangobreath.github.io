@@ -1,19 +1,10 @@
 ---
-id: 29637
 title: Free your hip!
+description: "being relaxed is an important aspect of being able to move anywhere at anytime, learn how to free your hips"
 date: 2012-01-26T16:37:26+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=29637
 permalink: /free-your-hip/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832087";}'
-dcssb_short_url:
-  - http://tinyurl.com/cv24lh8
-sfw_pwd:
-  - hg6xxGbFheoL
-sfw_comment_form_password:
-  - IGbLZtq5deC5
 categories:
   - Challenges
 tags:

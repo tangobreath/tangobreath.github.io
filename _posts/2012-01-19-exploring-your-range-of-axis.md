@@ -1,19 +1,10 @@
 ---
 id: 22822
 title: Exploring your range of axis
+description: "The ability to move our axis horizontally in space is one of the key ways we communicate, explore just how far you can go."
 date: 2012-01-19T12:59:54+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=22822
-permalink: /exploring-your-range-of-axis/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832088";}'
-dcssb_short_url:
-  - http://tinyurl.com/cqzdq4s
-sfw_pwd:
-  - rBUeOqERLEr0
-sfw_comment_form_password:
-  - eCn3Sm5idYbg
 categories:
   - Challenges
 tags:

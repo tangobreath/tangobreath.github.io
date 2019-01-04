@@ -1,19 +1,10 @@
 ---
-id: 247
-title: What is TangoBreath?
+layout: post
+title: "What is TangoBreath?"
+description: "linking our practice of tango movement with breath, to create intention"
 date: 2011-10-19T14:32:31+00:00
 author: Eric Gebhart
-layout: post
-guid: http://tangobreath.com/?p=247
 permalink: /what-is-tangobreath/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328832602";}'
-dcssb_short_url:
-  - http://tinyurl.com/cdxv6yx
-sfw_pwd:
-  - GQsqMxleKgfB
-sfw_comment_form_password:
-  - 4nF7viDA7Twa
 categories:
   - Article
   - Beginning
@@ -50,7 +41,8 @@ tags:
   - visualization
   - Yoga
 ---
-# We decided to link our practice of tango movement with breath, to create intention
+
+<!-- # We decided to link our practice of tango movement with breath, to create intention -->
 
 We know that what we do is different, a bit unconventional.  When asked, &#8220;What is TangoBreath&#8221;, we explain a bit, and sometimes we get,&#8221;Cool! Yoga and tango!&#8221; other times we get &#8220;That sounds like a lot of work, I just want to learn some steps&#8221; or &#8220;I can practice that on my own&#8221;.  There are a number of perspectives to take when looking at what we do.  I thought it might be nice to give you our point of view.
 

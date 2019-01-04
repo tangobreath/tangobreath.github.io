@@ -1,23 +1,12 @@
 ---
-id: 1788
-title: 'Here is a nice post about kiki and bouba and how +Murat Erdemsel  links them to tango&#8230;'
+title: "Kiki and Bouba!"
+description: 'Here is a nice post about kiki and bouba and how +Murat Erdemsel  links them to tango&#8230;'
 date: 2011-12-20T20:02:59+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/here-is-a-nice-post-about-kiki-and-bouba-and-how-murat-erdemsel-links-them-to-tango-3/
-permalink: /here-is-a-nice-post-about-kiki-and-bouba-and-how-murat-erdemsel-links-them-to-tango-3/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1328863573";}'
-dcssb_short_url:
-  - http://tinyurl.com/bwzne6n
-sfw_pwd:
-  - ildi38adzYkf
-sfw_comment_form_password:
-  - uJla9LBVck7y
+permalink: /kiki-and-bouba/
 categories:
-  - Google+
-tags:
-  - Google+
+  - Article
 ---
 Here is a nice post about kiki and bouba and how <span class="proflinkWrapper"><span class="proflinkPrefix">+</span><a href="https://plus.google.com/104671820784218116275" class="proflink" oid="104671820784218116275">Murat Erdemsel</a></span> links them to tango music. We use these idea's to help our students learn to hear the music and the phrasing within. We even have colored paper cutouts on wands, to help with the idea. Believe it or not Biagi's 'Racing club' is a great example of kiki and bouba phrasing. Another favorite of ours is Di Sarli's 'No Esta'. There are numerous choices that show these basic idea's and even more that blur the lines by combining kiki and bouba as melodies and counter melodies,fills and accents. Dancing to both kiki and bouba at the same time is full of possibilities and the results can be amazing.
 

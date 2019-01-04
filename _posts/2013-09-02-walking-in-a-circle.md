@@ -1,19 +1,10 @@
 ---
-id: 453796
 title: Walking in a circle
+description: "There is more to walking than walking in a straight line."
 date: 2013-09-02T12:19:36+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=453796
 permalink: /walking-in-a-circle/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";i:1376886063;}'
-dcssb_short_url:
-  - http://tinyurl.com/mymw93f
-sfw_pwd:
-  - 21uje2HhL8mN
-sfw_comment_form_password:
-  - zQKNNlJrRWot
 image: /wp-content/uploads/2013/02/tangomovement2.png
 categories:
   - Article
@@ -34,7 +25,6 @@ tags:
   - stretched spine
   - technique
 ---
-## There is more to walking than walking in a straight line.
 
 In a recent article, _<a title="Practicing in high heels will make you a better man." href="http://tangobreath.com/practicing-in-high-heels-will-make-you-a-better-man/" target="_blank" rel="noopener">&#8216;Practicing in high heels will make you a better man&#8217;</a>_, I emphasized the importance of practicing the molinette, particularly in heels. While that article focused on the additional effort and precision required of dancing well in heels, this article is about the importance of practicing your walk. I recognize the importance of walking in a straight line and how it&#8217;s simplicity can enable learning musicality and expression in ways that doing more complex moves actually inhibit. Some dancers perceive complex movements and steps as the definition of dancing, a view which can cause expression of the music to be lost. The impression that steps and moves are dancing can hold back a potential dancer from actually dancing for a very long time. I encourage practicing tango as a walk. An expressive walk, a walk where every step can express something in the music. But there is more to walking than walking in a straight line. There is great importance in learning to walk in a circle. It seems that many people that come to tango, and many tango veterans think that practicing your walk is to walk in a straight line forwards or backwards. In truth, that is only a part of the walk required in tango. The other half of the dance is spent walking in a circle around your partner. In actual practice this form of walking could be significantly more than half of the dance. Further, if a dancer were able to dance expressively in both a straight line and a circle all those fancy moves would just happen. Complex movements are born of simple dancing, as a consequence of smooth, solid, expressive movement. Linear movement, circular movement, changes of direction and perhaps **the most important movement of all, standing in one place while extending outward**.   Doing just those things leaves plenty of room for musical interpretation and expression as well as awareness of our partner which leads to actual dancing.
 

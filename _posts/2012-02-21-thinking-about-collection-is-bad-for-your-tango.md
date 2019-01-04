@@ -1,19 +1,11 @@
 ---
 id: 53212
 title: Thinking about collection is bad for your tango
+description: "#8220;Collection&#8221; was eliminated from our tango vocabulary for many reasons."
 date: 2012-02-21T17:08:48+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=53212
 permalink: /thinking-about-collection-is-bad-for-your-tango/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1329678557";}'
-dcssb_short_url:
-  - http://tinyurl.com/cs5ldgw
-sfw_pwd:
-  - QYklDyO7KERw
-sfw_comment_form_password:
-  - zOjAPHqkgn5E
 categories:
   - Article
   - Beginning
@@ -36,7 +28,6 @@ tags:
   - TangoBreath class
   - vinyasa
 ---
-# &#8220;Collection&#8221; was eliminated from our tango vocabulary for many reasons.
 
 I&#8217;ve written about collection in other articles, <a title="Moving with your line of gravity" href="http://tangobreath.com/moving-with-your-line-of-gravity/" target="_blank">&#8220;Moving with your line of gravity&#8221;</a> and <a title="How we think affects the way we move" href="http://tangobreath.com/how-we-think-affects-the-way-we-move-2/" target="_blank">&#8220;How we think affects the way we move&#8221;</a>, so it is no secret that I don&#8217;t like what thinking about collection does to our dance. When we started developing our TangoBreath vinyasa, &#8220;collection&#8221; was one the first things we eliminated in our teaching and in our descriptions of Argentine tango movement.
 

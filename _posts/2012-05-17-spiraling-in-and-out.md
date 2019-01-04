@@ -1,19 +1,10 @@
 ---
-id: 131506
 title: Spiraling in and out
+description: A less commonly considered spiral
 date: 2012-05-17T08:34:20+00:00
 author: Eric
 layout: post
-guid: http://tangobreath.com/?p=131506
 permalink: /spiraling-in-and-out/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";s:10:"1337258074";}'
-dcssb_short_url:
-  - http://tinyurl.com/btc8uqb
-sfw_pwd:
-  - jfxfI7BVAZdP
-sfw_comment_form_password:
-  - GjaZiIcOTkSE
 categories:
   - Challenges
   - Practice
@@ -31,7 +22,6 @@ tags:
   - standing leg
   - technique
 ---
-# A less commonly considered spiral
 
 Most of the time when we think of our spiral energy as it relates to
 tango, we consider the torsion that happens in our torso, as our hips

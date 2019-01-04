@@ -1,13 +1,12 @@
 ---
-id: 757324
 title: 'Welcome to the new TangoBreath website!'
+description: "The tangobreath site is back, but still needs some love."
 date: 2018-12-19T11:50:59+00:00
 author: Eric
 layout: post
 categories:
   - Announcements
 ---
-# Welcome to the new tangobreath website!
 
 For reasons beyond my control you may have noticed that this web site disappeared last year.
 

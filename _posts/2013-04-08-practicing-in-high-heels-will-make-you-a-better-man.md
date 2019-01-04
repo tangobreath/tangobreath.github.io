@@ -1,19 +1,10 @@
 ---
-id: 400814
 title: Practicing in high heels will make you a better man.
+description: "Putting yourself in anothers shoes can improve your dance in many ways"
 date: 2013-04-08T00:03:00+00:00
 author: Eric Gebhart
 layout: post
-guid: http://tangobreath.com/?p=400814
 permalink: /practicing-in-high-heels-will-make-you-a-better-man/
-keyword_cache:
-  - 'a:1:{s:13:"keywords_time";i:1362102231;}'
-dcssb_short_url:
-  - http://tinyurl.com/brou4m9
-sfw_pwd:
-  - LTZTbUmgAWaK
-sfw_comment_form_password:
-  - VghYledzka96
 image: /wp-content/uploads/2013/04/Practicing-in-heels.008.png
 categories:
   - Article
