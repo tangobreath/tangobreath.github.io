@@ -24,14 +24,16 @@ We believe that to dance Argentine tango well, a dancer must have an open
 mind, and an open heart. Until they have both, a dancer will always be
 limiting themselves in some way.
 
-Tango is a simple dance. Mastering a few things in a person's posture
+Tango is a simple dance. Mastering a few things in a person's mind, posture
 and movement gives a tango dancer access to all that tango is. While
 providing a lifetime of challenges and growth.
 
 The path to the fundamentals of tango movement and dance is the same
 regardless of a persons role in the dance. The roles of leader and
 follower carry too much weight, there should instead only be tango dancer,
-embodying both initiator and responder.
+embodying both initiator and responder. Perhaps a Navigator and co-navigator,
+to further establish what little difference there is between the two roles
+which both wish to express the music with their partner.
 
 Learning the fundamental movements of tango are akin to learning the
 fundamental sounds of a spoken language, Once the sounds are learned,
@@ -40,14 +42,14 @@ complexity of tango comes from the combinations of these fundamental
 sounds and syllables which can create very complex movements.  All of
 which are in actuality very simple.
 
-The musculoskeletal system, posture and movement are completely
+The mind, musculoskeletal system, posture and movement are completely
 intertwined to create a system which interacts with it's self. Movement
 should not be isolated to a single part of the body, each part should
 be considered a part of the whole.
 
 # On learning Argentine tango
 
-I believe that everything begins with good posture, subtle core movement,
+I believe that everything begins with a calm mind, good posture, subtle core movement,
 subtle communication within the embrace and proper technique. I also
 believe that the best way to learn is through exploration, discovery,
 and understanding.
@@ -69,7 +71,7 @@ dance and in our day to day lives. 
 
 ## Accessible but challenging for all levels of dancers
 
-In my classes, I start with posture and sensitivity exercises,
+In my classes, I start with meditation, posture and sensitivity exercises,
 focusing on subtle core movement, communication and presence within
 the embrace.  I then continue with exercises that slowly reveal more
 complex movements and concepts by adding to the subtle movements of

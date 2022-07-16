@@ -23,25 +23,25 @@ with our partner. These principles open pandoras box to reveal that
 there are many other movements available, but all of them are easily
 derived from the fundamental principles of movement. The key is to
 be attentive, in order to sense the connection through us and between
-use so that we may understand the initiation of movement and follow it
+us so that we may understand the initiation of movement and follow it
 where it goes.
 
-It is very important for students to develop their body awareness.
+It is very important for students to develop their mind and body awareness.
 
 In my classes *Breath* is used to connect mind and body, induce a
 relaxed and attentive state where movement is done with attention. It
 is also a source of *initiation*. This then leads to *sensing* the
 environment around us, to be fully present in the moment and brings
 attention to our exteroceptive systems, vision, hearing, touch, taste
-and smell. *Connection* is the sense of our connection to the floor and
-our partner, but also the connection of those forces within our bodies,
-and our ability to resist, yield and amplify the energy moving through
-us. *Initiation* is the ability to focus on the source of a movement
-and how that movement progresses through the body.
+and smell. *Connection* is the sense of our connection in the music, 
+to the floor and our partner, but also the connection of those forces 
+within our bodies, and our ability to resist, yield and amplify the 
+energy moving through us. *Initiation* is the ability to focus on the 
+source of a movement and how that movement progresses through the body.
 
 All of this to say, that I teach tango with a variety of techniques to
 increase student awareness of themselves, how movement begins and moves
-through them, as well as sensing everything around them.
+through them and their partner, as well as sensing everything around them.
 We dance in the present moment, we must practice there also.
 
 The goals are to understand how movement initiates and moves through our
@@ -83,7 +83,44 @@ of our lives.
 
 ## The Foundation
 
-My initial class is always a vinyasa of individual movement. 
+There are, really 3 classes, and homework. 
+  - The introduction - in which we learn the vinyasa and how it works with a partner over time.
+  - The vinyasa - where we work hard for an hour doing the vinyasa
+  - The partner class - where we learn to explore how it all works with each other.
+  - Homework
+  
+## The introduction: Tango from scratch series - All levels
+
+I sometimes teach a series of classes from scratch. Some people might 
+call this a beginners series. But even advanced dancers enjoy them
+and traditionally I have always let my students come for free after
+the second time through.
+ 
+This class is usually 6-8 classes which break down each segment of the vinyasa. 
+I sometimes give this as a 1.5 or 2 hour class, For the first 2 or 3 classes
+the first hour slowly fills up with the vinyasa. 
+The rest of the time is used for exploration with a partner.
+This section of the class explores the partnership of the dance, giving the
+experience of the application of mindfulness and movement in the embrace.
+
+By the end of 6 to 8 classes all the usual named tango movements will have 
+been covered in various ways, including sacadas and how to find them. 
+At this point everyone is a beginner, but capable of dancing tango.
+
+In the beginning it is difficult to do an entire vinyasa class.
+In this format the first two or three vinyasa classes move more slowly in order
+to introduce mindfulness and the concepts which underlie the movements.  After
+this stage, the vinyasa is more or less complete, but will continue to expand 
+and will always fit within it's hour.
+
+It usually takes 2-3 hours with space in-between before comprehension of
+the vinyasa is good enough to just do the vinyasa from beginning to end.
+Realizing also, that is just the beginning, It takes many hours of practice 
+to become proficient at being mindful, moving well, and also being empty of 
+the how.
+
+
+## The vinyasa
 This is a class which uses breath and mental imagery to bring 
 focus and awareness. It feels in many ways like a class of Tai Chi. 
 It is not like a typical dance class. It is very much centered
@@ -94,11 +131,12 @@ amount of chi energy in the room.
 
 The basic class covers the entire envelope of tango movement in
 one hour. Over time, as students improve, more concepts and their
-corresponding movements are incoporated. After some experience is
-built the classes will change in various ways to introduce more difficult
-combinations of movement.
+corresponding movements are incorporated. After some experience is
+built the classes will change in various ways to introduce variations
+and more difficult combinations of movement.
 
 The goals of this class are: 
+ * Learn how mindfulness and focusing awareness create the space we dance within.
  * Understand the fundamental principles and concepts of tango movement, 
  become aware of how they feel in your body.
  * Learn how to practice the entire envelope of tango movement
@@ -109,7 +147,7 @@ This is a demanding class for advanced dancers and beginners alike,
 but it a class you will appreciate. Everything I teach is based on the
 principles and concepts you will learn and master in this class.
 
-## Level 2
+## The Partner class
 
 This class is a partner class which always begins simply, very much like
 the vinyasa, with a focus on breath and awareness within the embrace. The
@@ -119,9 +157,12 @@ and movements practiced individually in the vinyasa. These exercises
 build slowly into taking steps and creating more complex movement as the
 class progresses. The emphasis is on awareness and intentional movement,
 which leads to the discovery of how we interact in the dance and how
-the forces of movement flow between us.
+the forces of movement flow between us.  This class will feel very much
+like a tango class you might have anywhere, doing exercises with your partner
+to discover new combinations of movement which fit in the music.
 
 The goals of this class are: 
+ * Learn how mindfulness sets the stage for being in the moment, with your partner and the music.
  * Learn to be aware of your partner, to sense their axis and the directions of
  their movement and potential movement.
  * Sense how initiating potential movement flows through your body and through your partner's. 
@@ -138,6 +179,7 @@ classes.
 
 ## Musicality
 
+These are just a variation of the partner classes.
 These classes also begin slowly, usually with a stronger theme of how 
 a movement feels. In other words musicality. While the other classes will
 always have some techniques of musicality, these classes generally focus
@@ -147,24 +189,27 @@ where we can grow into our personal dance through an exploration of musical
 ideas and expression. It's not the step, It's how you step. When and how 
 you leave, and when and how you arrive.
 
-## Tango from scratch series - All levels
+## Homework
 
-I sometimes teach a series of classes from scratch. Some people might 
-call this a beginners series. But even advanced dancers enjoy them
-and traditionally I have always let my students come for free after
-the second time through.
-
-This class consists of a one hour vinyasa followed by a one to one
-and half hour partner class. By the end of 6 to 8 classes all the usual
-named tango movements have been covered in various ways, including 
-sacadas and how to find them. At this point everyone is a beginner,
-but capable of dancing tango.
-
-In this format the first two vinyasa classes move more slowly and
-together form what would normally be a single vinyasa class.
+Homework in this case, usually comes in the form of a challenge. These are
+small things that no-one should mind too much.  Like taking a deep breath and
+doing a body/posture scan when you stand up from a chair. Or finding the ground
+and centering your mind before starting out on a walk. Taking a small break and
+devoting that time mindfully and lovingly to yourself.  Our time is the most
+precious thing we possess.
 
 # What to expect
 
+My hope is that these mindful movement practices will invade your
+life. That they will become a part of you. You will practice a small
+meditation many times a day, you will pivot beautifully and automatically
+while navigating the grocery store. You will play with your axis and posture
+while standing in line. You will give devotion and compassion to yourself 
+and those around you. That you will experience all of this
+many times in everyday. That you will stand tall, and be energetically
+present in all that you do.
+
+### In the class.
 For the vinyasa I like for my students to wear socks, ballet shoes, 
 or something very thin which allows you to feel the floor. The vinyasa
 is very demanding when wearing high heels, and for men, the tango 
@@ -172,7 +217,7 @@ shoes can reduce the sensation of the floor significantly.
 
 That said, I have done it in heels as have many of my students.
 I don't recommend it until you are content with your ability to
-do the vinyasa in socks.
+do the vinyasa in socks, or practice shoes.
 
 I teach with patience. I hope you will learn with patience. Each 
 class will awaken more self awareness and understanding. My wish
@@ -220,7 +265,7 @@ It's best to approach these classes with a fresh open mind and intention.
 For teachers there is a wealth of techniques here. The somatic exercises
 combined with the mental imagery are great tools to convey posture and movement
 to students without telling them what to do exactly with words which often
-does not work. As teachers we should always be looking for another point of view,
+do not work. As teachers we should always be looking for another point of view,
 another way to coax our students into tango dancers. My teaching is very
 personal to me, so I am likely to have some thought or idea or way of saying
 something that might surprise you. Ultimately, I think you will enjoy my 

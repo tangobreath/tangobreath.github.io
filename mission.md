@@ -19,7 +19,7 @@ sfw_pwd:
 ## I am dedicated to providing individual and group exploration and practice of Argentine tango technique through body- and breath-conscious movement.
 
 <div>
-  My mission is to create an environment that will nurture and support my students by helping them find awareness and self-knowledge in order to deeply understand Argentine tango movement.
+  My mission is to create an environment that will nurture and support my students by helping them find awareness and self-knowledge in order to deeply understand Argentine tango movement and the mindfulness that goes with it.
 </div>
 
 
@@ -31,7 +31,7 @@ sfw_pwd:
   </p>
   
   <div>
-    By guiding a slow sequence of tango-based movement, we are able to break down and focus on every aspect of each individual movement, from weight changes, to linear movement, to circular, or spiral, movement. 
+    By guiding a slow sequence of tango-based movement which begins wit mindfulness, we are able to break down and focus on every aspect of each individual movement, from weight changes, to linear movement, to circular, or spiral, movement. 
 In so doing, my students are able to develop body awareness, body memory, strength, and natural, graceful, and powerful movement.
   </div>
 </div>
