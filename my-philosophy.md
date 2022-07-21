@@ -19,10 +19,13 @@ skills to help themselves change their own patterns of movement. The good
 teacher gives the student the ability to be self-responsible. Effective
 teachers make themselves obsolete in the end."_
   
+In my heart, I know, that by sharing my view of tango, that others will
+benefit, regardless of their experience or style of tango. It is a point
+of view that informs many views of tango.
 
 We believe that to dance Argentine tango well, a dancer must have an open
-mind, and an open heart. Until they have both, a dancer will always be
-limiting themselves in some way.
+and accepting mind, and an open heart. Until they have both, a dancer will 
+always be limiting themselves in some way.
 
 Tango is a simple dance. Mastering a few things in a person's mind, posture
 and movement gives a tango dancer access to all that tango is. While
