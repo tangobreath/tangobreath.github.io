@@ -2,7 +2,7 @@
 title: Finding release in the pelvis
 description: "A continuation of last weeks awareness challenge, finding more awareness in our pelvis."
 date: 2012-03-10T12:57:14+00:00
-author: Eric
+author: Susannah Gebhart
 layout: post
 permalink: /finding-release-in-the-pelvis/
 categories:

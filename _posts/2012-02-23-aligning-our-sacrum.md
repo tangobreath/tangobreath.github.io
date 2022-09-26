@@ -2,7 +2,7 @@
 title: Aligning our sacrum
 description: "A simple thing to do everytime you begin to walk"
 date: 2012-02-23T13:05:17+00:00
-author: Eric
+author: Susannah Gebhart
 layout: post
 permalink: /aligning-our-sacrum/
 categories:

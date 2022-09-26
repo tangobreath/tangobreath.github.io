@@ -2,7 +2,7 @@
 title: Spiraling in and out
 description: A less commonly considered spiral
 date: 2012-05-17T08:34:20+00:00
-author: Eric
+author: Susannah
 layout: post
 permalink: /spiraling-in-and-out/
 categories:

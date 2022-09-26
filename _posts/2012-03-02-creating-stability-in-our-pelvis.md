@@ -2,7 +2,7 @@
 title: Creating stability in our pelvis
 description: "Maybe it's obvious, We love the pelvis!"
 date: 2012-03-02T21:20:09+00:00
-author: Eric
+author: Susannah Gebhart
 layout: post
 permalink: /creating-stability-in-our-pelvis/
 categories:

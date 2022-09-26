@@ -2,7 +2,7 @@
 title: Teaching and Learning Argentine Tango from a Different Perspective
 description: We believe that everyone has to learn the same things, regardless of role.
 date: 2012-01-03T17:58:57+00:00
-author: Eric Gebhart
+author: Susannah Gebhart
 layout: post
 permalink: /teaching-argentine-tango-from-a-different-perspective/
 categories:

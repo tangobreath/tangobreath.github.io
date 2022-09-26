@@ -2,7 +2,7 @@
 title: Perceiving the dynamic sacrum
 description: "A body awareness challenge that focuses on the keystone of our posture"
 date: 2012-02-16T13:06:34+00:00
-author: Eric
+author: Susannah Gebhart
 layout: post
 permalink: /perceiving-the-dynamic-sacrum/
 categories:
