@@ -5,61 +5,80 @@ author: Eric
 layout: page
 menu: true
 ---
-## Eric Gebhart, and the TangoBreath vinyasa
+## TangoBreath. 
 
-Eric´s dance, is neither Nuevo, nor milonguero. His first teacher was a Nuevo dancer, in a close embrace community. The result is a dance in-between. A close, rolling embrace in which close embrace has the freedom of movement of Nuevo, and the nuance of milonguero. However much of the world is more limited than this, so Eric dances all styles as necessitated by the music and his partner.
+Mon Sep 26 2022
 
-The idea of practicing a set of tango movements in the same way that someone would practice Tai Chi or Ba Qua came to Eric many years ago. 
+TangoBreath is no longer. It died with our marriage and the birth of a boulangerie
+sometime in 2016. It has taken me too many years to come to this place. 
 
-At the same time it was clear that the community, like so many others,
+This site is kept as an archive of what it was in it´s day.
+I have removed all class schedules and descriptions, leaving only the blog posts.
+
+I have decided this, as TangoBreath was created by two people. Eric and Susannah. It
+cannot continue to exist without Susannah. I (Eric) continued to teach in Asheville, 
+without Susannah for about a year. That was 2017.
+
+I have since taught randomly in Asheville and around
+europe. What was TangoBreath is still a part of my teaching, but my teaching has continued
+to grow and evolve, and is really something of my own at this point.
+
+TangoBreath was a wonderful experience during a sometimes difficult, but very beautiful
+time of life for us. It existed because of the two of us together. It was created from
+love, mindfulness and compassion, with two very open hearts. 
+I find it ironic, that our very first
+post [The Space Between Us](http://tangobreath.com/the-space-between-us/)
+reflects how we were and also describes what happened to us 
+in the end. Our space became polluted, and that was the end of us. It is my only
+explanation, as I do not know Susannah, and I do wonder if I ever did. I do believe
+we shared a great deal of love for each other no matter how it has turned out.
+
+TangoBreath was a stepping stone for me and continues to be at the foundation of what I
+teach as I continue on my journey, guiding
+people to learn how to be and move in their bodies, 
+and to dance tango with centered and loving awareness. 
+For more information (coming soon) about Eric's teachings and other things, 
+go to [EricGebhart.com](https://ericgebhart.com).
+
+I leave this site here, with it's content. I hope that it continues to be helpful
+to tango dancers around the world.
+
+______
+
+The origins of TangoBreath.
+
+TangoBreath began to take form, originally in the tango practice and concepts that Eric
+was using to give tango to others. Most notably his future wife Susannah.
+Susannah and Eric together created a formidable team, where these ideas bloomed into
+what would become TangoBreath. Eric has a background in kinesiology, meditation and martial arts, Susannah, has ballet and other dance, and I don`t honestly remember what else
+as I have forgotten very much of her.
+
+Eric and Susannah worked many months doing research, practicing, and eliminating much of
+the horrible tango teachings that were such a big part of tango instruction in those days,
+and which do continue on even today.
+
+It was clear that the community, like so many others,
 lacked fundamental skills which could raise the level of dance. 
 The practice of tango was often done without intention or proper technique. The idea of giving a guided practice, like a class of yoga, Tai Chi or Ba Gua seemed like a good idea.
-It has proven to be a very effective process. 
+It was also, perhaps, a good way to avoid the local tango politics of time.
 
-The vinyasa of tango movement became a class and a practice which proved very effective in helping students learn and improve their tango. 
-This led to more classes using the vinyasa as their foundation. 
-The same visualizations and knowledge introduced in the vinyasa enabled
-more in depth classes which use guided exploration and discovery rather than steps. 
-A fundamental principal throughout is that we dance with our entire body, not just the parts. 
-At the same time, Eric's teaching of movement begins at a level much more fundamental than the usual teaching of Tango fundamentals which are frequently not fundamental at all. 
-The vinyasa starts with mindfulness, posture and concepts of communication. From there,
-the student begins to discover healthy posture and effective tango movement through visualizations and self discovery.
-      
-Each movement of the TangoBreath vinyasa is akin to the elemental sound of a language. In learning how to move, to move well, and with the entire body, the tango dancer becomes more connected and communicative with their partner. The possibilities of the dance become an exercise in exploration and discovery. 
+Eric and Susannah had a regular yoga practice which came to influence their thinking in
+developing the TangoBreath vinyasa. Their studies led them in many other directions as well. 
+The origins of modern dance, [Martha Graham](https://en.wikipedia.org/wiki/Martha_Graham),
 
-Eric and Susannah began teaching TangoBreath in March 2011, after over six months of development, incorporating influences from their backgrounds, including yoga, martial arts, ballet, weight training, and other dance forms.</td> 
-
-Eric believes that how we think and what we visualize has a 
-[profound effect on how we move.](href="http://www.tangobreath.com/how-we-think-affects-the-way-we-move-2)
-For him, the best way to learn tango is through body awareness, 
-proper bio-mechanics, and movement discovery, rather than learning steps.
-
-To that end, he has developed a two pronged approach
-of teaching both individual and partnered mindfulness, movement and
-posture through his 
-[TangoBreath vinyasa flow of tango movement](http://www.tangobreath.com/tangobreath) 
-and visualizations. Combined with his partner classes, which
-concentrate on subtle, sensitive communication and movement within
-the embrace and the music.
-
-He seeks to help students find natural, powerful and graceful movement, sensitivity and subtlety, as well as their own creativity in their dance. If he has a goal in teaching, it is not only to help his students become better dancers, but also to empower them to move through their everyday lives with healthy, dynamic posture, more confidence, and fluidity.
-        
-Known for his unique teaching style, Eric has developed a philosophy
-of learning based on mindfulness, awareness, concepts and patterns, 
-which can then be applied
-holistically to the dance in a multitude of ways. Meditation, Healthy posture and
-movement is central to his teaching. Tango movement should involve the
-entire body which then creates a fluidity of movement within the dance.
-
-
-With his strong knowledge of anatomy, he applies himself to find more accurate ways of describing movement. 
-Greatly inspired by the works of “movement specialists” such as
-[Eric Franklin](http://www.franklin-methode.ch/default-sE.html) and 
 [Irene Dowd](http://www.juilliard.edu/degrees-programs/dance/faculty/detail.php?FacultyId=72&School=College&Division=Dance"), 
-He uses a variety of visualizations intended to help students find the posture and movement in their own bodies. 
-Often, his teaching has been compared to [http://www.feldenkrais.com/](Feldenkrais) and Alexander Technique. 
-Additionally, musical expression in the quality of movement is always present in his teaching. Eric continues to study and explore the dance intensively.
+and the visualizations of [Eric Franklin](http://www.franklin-methode.ch/default-sE.html) 
+are just a few of the paths they took.  As they taught, other disciplines and practices
+came to light, as their students pointed out that many of Eric´s and Susannah´s teachings were very similar to the ideas presented in Alexander Technique and 
+[http://www.feldenkrais.com/](Feldenkrais).
 
-Eric is available for private lessons and workshops.  He is delighted to work with organizers to tailor classes as well as TangoBreath exercises to focus on the needs and desires of the community.
+Eric and Susannah believed that how we think and what we visualize has a 
+[profound effect on how we move.](href="http://www.tangobreath.com/how-we-think-affects-the-way-we-move-2)
+For them, the best way to learn tango is through body awareness, 
+proper bio-mechanics, and movement discovery, rather than learning steps. Discovering
+the movement in your body, in your own way, is better than mimicking someone in hopes
+that it will somehow work it´s self out over time.
+
+
 
 
