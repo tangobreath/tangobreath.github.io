@@ -1,6 +1,6 @@
 ---
 id: 55467
-title: My Philosophy
+title: Our Philosophy
 date: 2018-10-06T15:22:18+00:00
 author: Eric Gebhart
 layout: page
@@ -12,14 +12,14 @@ keyword_cache:
 
 There are many styles of tango, and there are many styles of learning and teaching. At the foundation, all of it is the same.
 
-I have not found a better description of the role of a dance teacher than this quote by Irene Dowd.
+We have not found a better description of the role of a dance teacher than this quote by Irene Dowd.
 
 _"The work of a teacher is to give students the tools of knowledge and
 skills to help themselves change their own patterns of movement. The good
 teacher gives the student the ability to be self-responsible. Effective
 teachers make themselves obsolete in the end."_
   
-In my heart, I know, that by sharing my view of tango, that others will
+In my heart, We know, that by sharing my view of tango, that others will
 benefit, regardless of their experience or style of tango. It is a point
 of view that informs many views of tango.
 
@@ -52,8 +52,8 @@ be considered a part of the whole.
 
 # On learning Argentine tango
 
-I believe that everything begins with a calm mind, good posture, subtle core movement,
-subtle communication within the embrace and proper technique. I also
+We believe that everything begins with a calm mind, good posture, subtle core movement,
+subtle communication within the embrace and proper technique. We also
 believe that the best way to learn is through exploration, discovery,
 and understanding.
 
@@ -74,9 +74,9 @@ dance and in our day to day lives. 
 
 ## Accessible but challenging for all levels of dancers
 
-In my classes, I start with meditation, posture and sensitivity exercises,
+In our classes, We start with meditation, posture and sensitivity exercises,
 focusing on subtle core movement, communication and presence within
-the embrace.  I then continue with exercises that slowly reveal more
+the embrace.  We then continue with exercises that slowly reveal more
 complex movements and concepts by adding to the subtle movements of
 the exercise. Beginners can continue working with what they understand,
 and more advanced dancers can explore the more difficult movements and concepts.  All
