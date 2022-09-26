@@ -65,12 +65,12 @@ It was also, perhaps, a good way to avoid the local tango politics of time.
 Eric and Susannah had a regular yoga practice which came to influence their thinking in
 developing the TangoBreath vinyasa. Their studies led them in many other directions as well. 
 The origins of modern dance, [Martha Graham](https://en.wikipedia.org/wiki/Martha_Graham),
-
 [Irene Dowd](http://www.juilliard.edu/degrees-programs/dance/faculty/detail.php?FacultyId=72&School=College&Division=Dance"), 
 and the visualizations of [Eric Franklin](http://www.franklin-methode.ch/default-sE.html) 
 are just a few of the paths they took.  As they taught, other disciplines and practices
 came to light, as their students pointed out that many of Eric´s and Susannah´s teachings were very similar to the ideas presented in Alexander Technique and 
-[http://www.feldenkrais.com/](Feldenkrais).
+[Feldenkrais](http://www.feldenkrais.com).  This led to various classes in 
+colaboration with teachers of Alexander technique, Feldenkrais, and yoga.
 
 Eric and Susannah believed that how we think and what we visualize has a 
 [profound effect on how we move.](href="http://www.tangobreath.com/how-we-think-affects-the-way-we-move-2)
